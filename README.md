@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title> Second webPage</title>
 </head>
 
 <body>
