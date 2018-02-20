@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Haris WebPage for Homework A06
 
 You can use the [editor on GitHub](https://github.com/sirharis214/hariswebpage117/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
