@@ -5,9 +5,9 @@
 
 <body>
 
-<h1> Haris web page 117</h1>
+<h1> Welcome Haris, This is your web page 117</h1>
 
-<h2> This is for the homework A06 </h2>
+<h2> This is for the homework A06 !! </h2>
 
 </body>
 </html>
